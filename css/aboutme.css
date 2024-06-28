@@ -1,0 +1,180 @@
+/* Global style */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.head-cont {
+    max-height: 100vh;
+    font-size: 37px;
+    background: #F9EBDE;
+    color:  #484545;
+    gap: 7em;
+    padding: 100px 15% 0;
+    width: 100%;
+}
+
+.aboutme-home {
+    width: 100%;
+    min-height: 70vh;
+    background: #F9EBDE;
+    color:  #484545;
+    align-items: center;
+    gap: 5em;
+    padding: 15px 12% 0;
+}
+
+.aboutme-img img {
+    width: 40%;
+    height: 35%;
+    border-radius: 50%;
+    cursor: pointer;
+    box-sizing: border-box; 
+    align-items: center;
+}
+
+.aboutme-cont p {
+    font-size: 22px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}
+.aboutme-cont ul {
+    font-size: 22px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}
+
+.title-cont {
+    max-height: 100vh;
+    font-size: 37px;
+    background: #815854;
+    color: #F9EBDE;
+    gap: 7em;
+    padding: 100px 15% 0;
+    width: 100%;
+}
+
+.education {
+    width: 100%;
+    min-height: 90vh;
+    background: #815854;
+    color: #F9EBDE;
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 12% 0;
+}
+
+.edu-cont h2 {
+    font-size: 35px;
+    line-height: 1.2;
+}
+
+.edu-cont p {
+    font-size: 20px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}
+
+.pri-img img {
+    position: relative;
+    width: 190%;
+    height: 180%;
+    border-radius: 20%;
+    box-sizing: border-box;
+}
+
+.edu2 {
+    width: 100%;
+    min-height: 90vh;
+    background: #F9EBDE;
+    color: #484545;
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 12% 0;
+}
+
+.sec-img img {
+    position: relative;
+    width: 165%;
+    height: 160%;
+    border-radius: 10%;
+    box-sizing: border-box;
+}
+
+.edu2-cont h2 {
+    font-size: 35px;
+    line-height: 1.2;
+}
+
+.edu2-cont p {
+    font-size: 20px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}
+
+.edu3 {
+    width: 100%;
+    min-height: 90vh;
+    background: #815854;
+    color: #F9EBDE;
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 12% 0;
+}
+
+.edu3-cont h2 {
+    font-size: 35px;
+    line-height: 1.2;
+}
+
+.edu3-cont p {
+    font-size: 20px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}
+
+.stam-img img {
+    position: relative;
+    width: 180%;
+    height: 150%;
+    border-radius: 10%;
+    box-sizing: border-box;
+}
+
+.edu4 {
+    width: 100%;
+    min-height: 90vh;
+    background: #F9EBDE;
+    color: #484545;
+    display: flex;
+    align-items: center;
+    gap: 7em;
+    padding: 30px 12% 0;
+}
+
+.degree-img img {
+    position: relative;
+    width: 180%;
+    height: 160%;
+    border-radius: 10%;
+    box-sizing: border-box;
+}
+
+.edu4-cont h2 {
+    font-size: 35px;
+    line-height: 1.2;
+}
+
+.edu4-cont p {
+    font-size: 20px;
+    margin: 25px 0 30px;
+    text-align: justify;
+}

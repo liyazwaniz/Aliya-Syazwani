@@ -1,0 +1,72 @@
+/* Global style */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.friends-home {
+    max-height: 100vh;
+    font-size: 35px;
+    background: #F9EBDE;
+    color: #484545;
+    gap: 7em;
+    padding: 100px 15% 0;
+    width: 100%;
+}
+
+.title h3{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.friends-cont {
+    min-height: none;
+    font-size: 30px;
+    background: #F9EBDE;
+    color: #484545;
+    gap: 7em;
+    padding: 100px 15% 0;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 2px solid #815854;
+    height: 100px;
+    text-align: justify;
+}
+
+th:nth-child(1), td:nth-child(1) {
+    width: 40%; 
+}
+
+th:nth-child(2), td:nth-child(2) {
+    width: 60%; 
+}
+
+th, td {
+    padding: 15px;
+}
+
+img {
+    max-width: 70%; 
+    height: auto; 
+    border-radius: 10%;
+    
+}
+
+.more-cont {
+    font-size: 20px;
+    text-align: justify;
+
+}

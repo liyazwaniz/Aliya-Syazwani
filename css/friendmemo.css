@@ -1,0 +1,113 @@
+* Global style */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.gambar {
+    max-height: 100vh;
+    font-size: 38px;
+    background: #F9EBDE;
+    color: #484545;
+    gap: 7em;
+    padding: 100px 15% 0;
+    width: 100%;
+}
+
+img {
+    max-width: 50%;
+    display: block;
+    box-sizing: border-box;
+}
+
+.memory {
+    width: 100%;
+    margin-inline: auto;
+}
+
+.memory {
+    display: grid;
+    background: #F9EBDE;
+    color: #484545;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-top: 0;
+}
+
+.pic1 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+}
+
+.pic1 img {
+    max-width: 75%; 
+    height: auto; 
+}
+
+.pic2 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+}
+
+.pic2 img {
+    max-width: 70%; 
+    height: auto; 
+}
+
+.pic3 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+}
+
+.pic3 img {
+    max-width: 75%; 
+    height: auto; 
+}
+
+.pic4 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+}
+
+.pic4 img {
+    max-width: 70%; 
+    height: auto; 
+}
+
+.pic5 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+}
+
+.pic5 img {
+    max-width: 75%; 
+    height: auto; 
+}
+
+.pic6 {
+    border: 2px solid #815854;
+    border-radius: 6px;
+    padding: 1rem;
+    background-color: #56422d;
+    justify-content: space-between;
+}
+
+.pic6 img {
+    max-width: 70%; 
+    height: auto; 
+}
